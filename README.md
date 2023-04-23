@@ -25,8 +25,8 @@ Read the files (Jupyter Notebook) in order for a better experience
 - K Nearest Neighbour and how it works
 - Neural Network and how it works
 ## Contribution
-- Song Tian - 
-- Khai Thung - 
+- Song Tian - Data Preparation, EDA and Feature Selection
+- Khai Thung - Presentation Slides, Script Preparation and Video Recorder and Presenter
 - Eugene Tan - Model Fitting (All ML models)
 ## References
 - https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset
