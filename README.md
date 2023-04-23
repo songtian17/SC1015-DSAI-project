@@ -16,7 +16,9 @@ Read the files (Jupyter Notebook) in order for a better experience
 - K Nearest Neighbour
 - Neural Network
 ## Final Thoughts
-- 
+- Bad lifestyle/heath conditions tend to lead to a higher risk of getting diabetes
+- Neural network seems to have the best accuracy among the four models used
+- Some factors can affect the risk of getting diabetes than others
 ## New things we've learnt
 - Using Chi-squared test to obtain Cramer’s V value
 - Random Forest and how it works
@@ -25,7 +27,7 @@ Read the files (Jupyter Notebook) in order for a better experience
 ## Contribution
 - Song Tian - 
 - Khai Thung - 
-- Eugene Tan - Model Fitting
+- Eugene Tan - Model Fitting (All ML models)
 ## References
 - https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset
 - https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html
