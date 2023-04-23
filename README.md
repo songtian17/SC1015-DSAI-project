@@ -18,7 +18,7 @@ Read the files (Jupyter Notebook) in order for a better experience
 ## Final Thoughts
 - Bad lifestyle/heath conditions tend to lead to a higher risk of getting diabetes
 - Neural network seems to have the best accuracy among the four models used
-- Some factors can affect the risk of getting diabetes than others
+- Some factors can affect the risk of getting diabetes more than others
 ## New things we've learnt
 - Using Chi-squared test to obtain Cramer’s V value
 - Random Forest and how it works
