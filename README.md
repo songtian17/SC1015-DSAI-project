@@ -29,6 +29,7 @@ Read the files (Jupyter Notebook) in order for a better experience
 - Khai Thung - Presentation Slides, Script Preparation and Video Recorder and Presenter
 - Eugene Tan - Model Fitting (All ML models)
 ## References
+- https://www.cdc.gov/diabetes/basics/quick-facts.html
 - https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset
 - https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html
 - https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html
