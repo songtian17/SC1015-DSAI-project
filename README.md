@@ -3,7 +3,7 @@ Mini project for SC1015 in NTU. Our team decided to choose a [dataset on diabete
 ## Defining the Problem
 Diabetes is a medical condition where the body does not produce enough insulin to break down glucose. With over 37 million people in the US having diabetes, and 20% of that not knowing that they have diabetes.
 What we want is to predict the risk of a person having diabetes based on their current lifestyle and health condition
-## Flow of program
+## Flow of the Program
 Read the files (Jupyter Notebook) in order for a better experience
 1. [Data Preparation](https://github.com/songtian17/SC1015-DSAI-project/blob/main/Data_Preparation.ipynb)
 2. [Exploratory Data Analysis](https://github.com/songtian17/SC1015-DSAI-project/blob/main/EDA.ipynb)
