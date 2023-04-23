@@ -15,6 +15,13 @@ Read the files (Jupyter Notebook) in order for a better experience
 - Decision Tree
 - K Nearest Neighbour
 - Neural Network
+## Final Thoughts
+- 
+## New things we've learnt
+- Using Chi-squared test to obtain Cramer’s V value
+- Random Forest and how it works
+- K Nearest Neighbour and how it works
+- Neural Network and how it works
 ## Contribution
 - Song Tian - 
 - Khai Thung - 
