@@ -16,9 +16,9 @@ Read the files (Jupyter Notebook) in order for a better experience
 - K Nearest Neighbour
 - Neural Network
 ## Contribution
-Song Tian - 
-Khai Thung - 
-Eugene Tan - 
+- Song Tian - 
+- Khai Thung - 
+- Eugene Tan - 
 ## References
 - https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset
 - https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html
