@@ -30,7 +30,9 @@ Read the files (Jupyter Notebook) in order for a better experience
 - Eugene Tan - Model Fitting (All ML models)
 ## References
 - https://www.cdc.gov/diabetes/basics/quick-facts.html
+- https://www.kaggle.com/code/bayunova/diabetes-health-indicators
 - https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset
 - https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html
 - https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html
+- https://stackoverflow.com/questions/20892799/using-pandas-calculate-cram%C3%A9rs-coefficient-matrix
 - https://www.tensorflow.org/guide/keras/sequential_model
